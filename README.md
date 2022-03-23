@@ -17,6 +17,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Debouncing v/s Throttling: What&#39;s the difference?](https://dev.to/afrazchelsea/debouncing-v-s-throttling-what-s-the-difference-4k95)
+- [Function Currying in JavaScript](https://dev.to/afrazchelsea/function-currying-in-javascript-3h3g)
+- [Event Bubbling and Event Capturing in Javascript](https://dev.to/afrazchelsea/event-bubbling-and-event-capturing-in-javascript-3og8)
+- [Debouncing in JavaScript](https://dev.to/afrazchelsea/debouncing-in-javascript-36n8)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
