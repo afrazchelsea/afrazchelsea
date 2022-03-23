@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afrazchelsea&label=Profile%20views&color=0e75b6&style=flat" alt="afrazchelsea" /> </p>
 
-- 🔭 Currently working as a **Site Reliability Engineer - 1 at Medly**
+- 🔭 Currently working as a **Site Reliability Engineer - 1 at [Medly](https://medly.com/en-us)**
 
 - 💬 Ask me about **AWS, Terraform and Serverless**
 
-- 🌱 I’m currently learning **Go, Kubernetes**
+- 🌱 I’m currently learning **Go**
 
 - 🤝 Available to collaborate on interesting **Open Source projects**
 
-- 📝 You can find my write-ups on [blog.afrazmomin.com](blog.afrazmomin.com)
+- 📝 You can find my write-ups on **[blog.afrazmomin.com](blog.afrazmomin.com)**
 
 - 📫 Reach me at **afraz.momin@gmail.com**
 
-<!-- ### Blogs posts -->
+### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
