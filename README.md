@@ -11,12 +11,14 @@
 
 - 🤝 Available to collaborate on interesting **Open Source projects**
 
-- 📝 You can find my write-ups on **[blog.afrazmomin.com](blog.afrazmomin.com)**
+- 📝 You can find my write-ups on **[blog.afrazmomin.com](https://blog.afrazmomin.com)**
 
 - 📫 Reach me at **afraz.momin@gmail.com**
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Debouncing v/s Throttling: What&#39;s the difference?](https://dev.to/afrazchelsea/debouncing-v-s-throttling-what-s-the-difference-4k95)
 - [Function Currying in JavaScript](https://dev.to/afrazchelsea/function-currying-in-javascript-3h3g)
 - [Event Bubbling and Event Capturing in Javascript](https://dev.to/afrazchelsea/event-bubbling-and-event-capturing-in-javascript-3og8)
