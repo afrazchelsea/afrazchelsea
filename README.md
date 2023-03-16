@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afrazchelsea&label=Profile%20views&color=0e75b6&style=flat" alt="afrazchelsea" /> </p>
 
-- 🔭 Currently working as a **Site Reliability Engineer at [Tradebyte](https://www.tradebyte.com/en/)**
+- 🔭 Currently working as a **Site Reliability Engineer at [Tradebyte Software](https://www.tradebyte.com/en/)**
 
 - 💬 Ask me about **AWS, Terraform and Serverless**
 
