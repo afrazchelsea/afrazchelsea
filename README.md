@@ -53,5 +53,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrazchelsea&show_icons=true&locale=en" alt="afrazchelsea" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrazchelsea&" alt="afrazchelsea" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrazchelsea&" alt="afrazchelsea" /></p> -->
 </p>
