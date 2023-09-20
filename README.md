@@ -15,13 +15,13 @@
 
 - 📫 Reach me at **afraz.momin@gmail.com**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Debouncing v/s Throttling: What&#39;s the difference?](https://dev.to/afrazchelsea/debouncing-v-s-throttling-what-s-the-difference-4k95)
+<!-- - [Debouncing v/s Throttling: What&#39;s the difference?](https://dev.to/afrazchelsea/debouncing-v-s-throttling-what-s-the-difference-4k95)
 - [Function Currying in JavaScript](https://dev.to/afrazchelsea/function-currying-in-javascript-3h3g)
 - [Event Bubbling and Event Capturing in Javascript](https://dev.to/afrazchelsea/event-bubbling-and-event-capturing-in-javascript-3og8)
-- [Debouncing in JavaScript](https://dev.to/afrazchelsea/debouncing-in-javascript-36n8)
+- [Debouncing in JavaScript](https://dev.to/afrazchelsea/debouncing-in-javascript-36n8) -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -37,7 +37,6 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://terraform.io" target="_blank" rel="noreferrer"> <img src="./assets/terraform-icon.svg" alt="terraform" width="40" height="40"/> </a>
  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
