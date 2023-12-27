@@ -11,7 +11,7 @@
 
 - 🤝 Available to collaborate on interesting **Open Source projects**
 
-- 📝 You can find my write-ups on **[blog.afrazmomin.com](https://blog.afrazmomin.com)**
+- 📝 You can find my write-ups on **[afrazmomin.com](https://afrazmomin.com)**
 
 - 📫 Reach me at **afraz.momin@gmail.com**
 
