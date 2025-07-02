@@ -62,7 +62,7 @@
     <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40" height="40" alt="Helm" />
   </a>
   <a href="https://keda.sh/" target="_blank">
-    <img src="https://raw.githubusercontent.com/kedacore/keda/main/logo/keda-icon-color.png" width="40" height="40" alt="KEDA" />
+    <img src="https://github.com/user-attachments/assets/029b32b3-0849-49b3-9d51-407f8a36cf53" width="40" height="40" alt="KEDA" />
   </a>
   <a href="https://argo-cd.readthedocs.io/" target="_blank">
     <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="40" height="40" alt="ArgoCD" />
