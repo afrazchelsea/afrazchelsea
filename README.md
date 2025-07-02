@@ -9,7 +9,7 @@
 
 ### 🛠️ About Me
 
-- 🔭 Currently working as a **Senior Platform Engineer at [Tradebyte Software](https://www.tradebyte.com/en/)** ([Zalando Group](zalando.de))
+- 🔭 Currently working as a **Senior Platform Engineer at [Tradebyte Software](https://www.tradebyte.com/en/)** ([Zalando Group](https://en.zalando.de/men-home/?_rfl=de))
 - 🌐 I work across **Cloud Infrastructure, Platform Engineering, DevOps, and Backend systems**
 - 💬 Ask me about: **AWS, Kubernetes, Terraform, and Go**
 - 🧠 Passionate about building scalable platforms and contributing to open source
